@@ -1,0 +1,13 @@
+C:\Users\Jarvis\source\repos\MachineLearningAlpha\MachineLearningAlpha\bin\Debug\netcoreapp2.1\MachineLearningAlpha.deps.json
+C:\Users\Jarvis\source\repos\MachineLearningAlpha\MachineLearningAlpha\bin\Debug\netcoreapp2.1\MachineLearningAlpha.runtimeconfig.json
+C:\Users\Jarvis\source\repos\MachineLearningAlpha\MachineLearningAlpha\bin\Debug\netcoreapp2.1\MachineLearningAlpha.runtimeconfig.dev.json
+C:\Users\Jarvis\source\repos\MachineLearningAlpha\MachineLearningAlpha\bin\Debug\netcoreapp2.1\MachineLearningAlpha.dll
+C:\Users\Jarvis\source\repos\MachineLearningAlpha\MachineLearningAlpha\obj\Debug\netcoreapp2.1\MachineLearningAlpha.csprojAssemblyReference.cache
+C:\Users\Jarvis\source\repos\MachineLearningAlpha\MachineLearningAlpha\obj\Debug\netcoreapp2.1\MachineLearningAlpha.csproj.CoreCompileInputs.cache
+C:\Users\Jarvis\source\repos\MachineLearningAlpha\MachineLearningAlpha\obj\Debug\netcoreapp2.1\MachineLearningAlpha.AssemblyInfoInputs.cache
+C:\Users\Jarvis\source\repos\MachineLearningAlpha\MachineLearningAlpha\obj\Debug\netcoreapp2.1\MachineLearningAlpha.AssemblyInfo.cs
+C:\Users\Jarvis\source\repos\MachineLearningAlpha\MachineLearningAlpha\bin\Debug\netcoreapp2.1\Data\taxi-fare-test.csv
+C:\Users\Jarvis\source\repos\MachineLearningAlpha\MachineLearningAlpha\bin\Debug\netcoreapp2.1\Data\taxi-fare-train.csv
+C:\Users\Jarvis\source\repos\MachineLearningAlpha\MachineLearningAlpha\bin\Debug\netcoreapp2.1\MachineLearningAlpha.pdb
+C:\Users\Jarvis\source\repos\MachineLearningAlpha\MachineLearningAlpha\obj\Debug\netcoreapp2.1\MachineLearningAlpha.dll
+C:\Users\Jarvis\source\repos\MachineLearningAlpha\MachineLearningAlpha\obj\Debug\netcoreapp2.1\MachineLearningAlpha.pdb
